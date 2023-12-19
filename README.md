@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code and ✨ create bugs 🐛 using</h2>
+<h2 align="left">I code and ✨ fix bugs 🐛 using</h2>
 
 ###
 
